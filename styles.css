@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f5dc; /* Beige color */
+    background-color: #ecf4f9; /* Light Blue */
 }
 
 header {
-    background-color: #d2b48c; /* Tan color */
+    background-color: #3498db; /* Dark Blue */
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -38,9 +38,25 @@ nav ul li a {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.services {
+    border-top: 2px solid #3498db; /* Dark Blue */
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.why-choose-us {
+    border-top: 2px solid #3498db; /* Dark Blue */
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.call-to-action {
+    margin-top: 20px;
+}
+
 footer {
     text-align: center;
     padding: 1em;
-    background-color: #d2b48c; /* Tan color */
+    background-color: #3498db; /* Dark Blue */
     color: #fff;
 }
