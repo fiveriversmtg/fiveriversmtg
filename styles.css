@@ -56,6 +56,8 @@ nav ul li a {
 
 .address {
      border-top: 2px solid #3498db; /* Dark Blue */
+     margin-top: 20px;
+    padding-top: 20px;
 }
 
 footer {
